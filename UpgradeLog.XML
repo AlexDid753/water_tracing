@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SanMod">
+</Property><Property Name="Файл решения" Value="D:\Documents and Settings\Данил\Рабочий стол\Учебные материалы\Диплом\SanMod\SanMod\SanMod.sln">
+</Property><Property Name="Date" Value="4 февраля 2011 г.">
+</Property><Property Name="Time" Value="12:01">
+</Property></Properties><Event ErrorLevel="0" Project="SanMod" Source="SanMod.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="SanMod" Source="SanMod.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SanMod.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="SanMod.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SanMod" Source="SanMod.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
