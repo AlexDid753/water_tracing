@@ -1,2 +1,4 @@
 # water_tracing
-Algorithm tracing of water supply networks
+Algorithm for tracing water and sewer networks for GIS Ingeo in file SanMod.cs
+
+
